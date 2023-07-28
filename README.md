@@ -1,2 +1,2 @@
-# jubilant-happiness
-jubilant-happiness es el nombre que le he dado porque no me deja poner sacar los colores a los políticos
+# sacar-los-colores
+sacar-los-colores es lo que le vamos a hacer a los políticos que mienten
