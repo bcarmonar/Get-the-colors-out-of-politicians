@@ -6,16 +6,16 @@ creado por Reaktor Innovations y la Universidad de Helsinki.
 
 # Título del Proyecto
 
-Proyecto final del curso Building AI
+Proyecto final del curso Construyendo IA
 
 ## Resumen
 
-Describa brevemente en 2-3 oraciones de qué se trata su proyecto. ¡Alrededor de 250 caracteres es una buena longitud!
+Los políticos mienten muchas veces al dar cifras y datos. Con esta herramienta pretendemos cotejar unas y otros con los reales, a modo de detector de mentiras. Se instalará una pequeña pantalla delante del micrófono que se pondrá en rojo cada vez que falte a la verdad.
 
 
 ## Fondo
 
-¿Qué problemas resuelve tu idea? ¿Qué tan común o frecuente es este problema? ¿Cuál es tu motivación personal? ¿Por qué es importante o interesante este tema?
+Con estas instrucciones que creemos vamos a solucionar la credibilidad de que adolece la clase política española, en mi caso, ya que soy español. Son innumerables los casos que se dan en los que se rebaten las incongruencias en lo que dijeron hace x tiempo y lo que dicen ahora. No siguen unas pautas y una disciplina, donde decían digo, ahora dicen diego. Se dan casos de auténtico descaro al hacer declaraciones o entrevistas en las que literalmente engañan a la población.
 
 Así es como haces una lista, si la necesitas:
 * problema 1
