@@ -45,21 +45,16 @@ Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quie
 
 ## Fuentes de datos y métodos de IA
 Los datos povienen de la red, de medios de comunicación, que son los que tienen todos los archivos, tanto escritos como de audio. Prensa, radio, televisión, RRSS, etc. serán testigos directos y jueces de todo aquello que salga por sus bocas e inmediatamente serán objetivo de la lupa al pasar por sus respectivas hemerotecas.
-Si necesita usar enlaces, aquí hay un ejemplo:
 
 ## Desafíos
 
-¿Qué _no_ resuelve tu proyecto? ¿Qué limitaciones y consideraciones éticas se deben tener en cuenta al implementar una solución como esta?
+Aunque es innumerable el número de contradiciones en las que entrarn las y los políticos a la hora de hablar, esta idea no va a reflejar aquella innumerables barbaridades que han dicho, dicen y dirán y que no están recogidas en ningún medio y que nada más que se pueden demostrar a través de testigos directos presentes en tales circunstancias y que podrían apostillar y dar fe de lo que pretendemos demostrar con este experimento.
 
 ## ¿Qué sigue?
 
-¿Cómo podría tu proyecto crecer y convertirse en algo aún más? ¿Qué tipo de habilidades, qué tipo de ayuda necesitarías para seguir adelante?
-
+Sería muy importante que este proyecto tuviera forma y algún día pudiera tener visibilidad ya que sería la única manera de que los políticos primero y la ciudadanía después vieran la importancia que tiene el no mentir constantemente y que el dar veracidad a cualquier asunto es de vital importancia para beneficio de los ciudadanos, no de los políticos o de a los que quieran estos beneficiar, que muchas veces es a cambio de prebendas.
 
 ## Agradecimientos
 
-* enumere aquí las fuentes de inspiración
-* no use código, imágenes, datos, etc. de otros sin permiso
-* cuando tenga permiso para usar los materiales de otras personas, siempre mencione al creador original y la licencia de código abierto / Creative Commons que han usado
-  <br>Por ejemplo: [Gato durmiendo boca arriba de Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons. org/licencias/por/2.0)
-* etc
+* Este curso ha sido enormemente interesante y práctico porque ha incluido muchos ejercicios. He de reconocer que, difíciles, pero es lo que hay.
+* Agradecer a la UNED y la Universidad de HelsinKy por facilitar este curso gratuíto porque estoy en paro y me sirve para poder abrir un campo nuevo.
