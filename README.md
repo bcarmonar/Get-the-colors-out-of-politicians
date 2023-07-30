@@ -31,7 +31,7 @@ Es necesario la solución a este problema endémico ya, arraigado en la clase po
 Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quien confiar y a quien encomendar sus votos a la hora de ir a las urnas, porque ellos serán los que defenderán sus intereses.
 
 
-<table  border="0"; style="width: 100%; text-align: center;">
+<table  border="0"; bordercolor="white"; style="width: 100%; text-align: center;">
   <tr>
     <td style="width: 33%;">
 <img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="475"></td>
