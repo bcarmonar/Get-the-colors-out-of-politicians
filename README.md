@@ -35,7 +35,19 @@ Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quie
 <img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="400">
 <img src="https://img.freepik.com/fotos-premium/hombre-sosteniendo-microfono-frente-multitud_197463-2772.jpg?w=826" width="400">
 
-
+<table style="width: 100%; text-align: center;">
+  <tr>
+    <td style="width: 33%;">Primera columna</td>
+    <td style="width: 33%;">Segunda columna</td>
+    <td style="width: 33%;">Tercera columna</td>
+  </tr>
+  <tr>
+    <td colspan="3" style="width: 100%; padding-top: 50px;">Más contenido</td>
+  </tr>
+  <tr>
+    <td  colspan="3" style="width: 100%; padding-top: 50px;">Pie de página</td>
+  </tr>
+</table>
 
 
 ## Fuentes de datos y métodos de IA
