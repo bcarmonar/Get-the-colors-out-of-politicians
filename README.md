@@ -37,7 +37,8 @@ Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quie
 
 <table style="width: 100%; text-align: center;">
   <tr>
-    <td style="width: 33%;">Primera columna</td>
+    <td style="width: 33%;">
+<img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="400"></td>
     <td style="width: 33%;">Segunda columna</td>
     <td style="width: 33%;">Tercera columna</td>
   </tr>
