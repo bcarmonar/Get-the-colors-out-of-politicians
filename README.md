@@ -28,9 +28,9 @@ Intentaremos dar veracidad a:
 
 ## ¿Cómo se usa?
 
-Describe el proceso de usar la solución. ¿En qué tipo de situaciones se necesita la solución (entorno, tiempo, etc.)? ¿Quiénes son los usuarios, qué tipo de necesidades se deben tener en cuenta?
-
-![Cat](https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826)
+Es necesario la solución a este problema endémico ya, arraigado en la clase política, no sólo la española, sino a nivel internacional, el mentir por mentir, sobre todos algunos lo llevan en sus genes y lo hacen con tal naturalidad, que gran parte de la población lo sigue y lo aplauden. No les tiembla la voz cuando algún contrincante político les rebate y siguen a lo suyo, la mentira. 
+Es importante que la gente de a pie sepa qué tipo de gobernantes tenemos, en quien confiar y a quien confiar nuestros votos a la hora de ir a las urnas, porque ellos serán los que defenderán nuestros intereses.
+![Político](https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826)
 
 
 If you need to resize images, you have to use an HTML tag, like this:
