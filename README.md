@@ -30,10 +30,10 @@ Intentaremos dar veracidad a:
 
 Describe el proceso de usar la solución. ¿En qué tipo de situaciones se necesita la solución (entorno, tiempo, etc.)? ¿Quiénes son los usuarios, qué tipo de necesidades se deben tener en cuenta?
 
-![Politico][(https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)](https://www.freepik.es/fotos-premium/hombre-siendo-entrevistado-microfono_42699085.htm#page=5&query=pol%C3%ADticos%20hablando&position=7&from_view=search&track=ais)
+![Politico](https://www.freepik.es/fotos-premium/hombre-siendo-entrevistado-microfono_42699085.htm#page=5&query=pol%C3%ADticos%20hablando&position=7&from_view=search&track=ais)
 
 Si necesita cambiar el tamaño de las imágenes, debe usar una etiqueta HTML, como esta:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+<img src="https://www.freepik.es/fotos-premium/hombre-siendo-entrevistado-microfono_42699085.htm#page=5&query=pol%C3%ADticos%20hablando&position=7&from_view=search&track=ais" width="300">
 
 Así es como se crean ejemplos de código:
 ```
