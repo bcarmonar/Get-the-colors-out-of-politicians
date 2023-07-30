@@ -23,8 +23,9 @@ Intentaremos dar veracidad a:
 * Manifiestos
 * Debates
 * Concentraciones
-* Charlas
 * Asambleas
+* Charlas
+* Mítines
 
 
 ## ¿Cómo se usa?
