@@ -27,7 +27,7 @@ Intentaremos dar veracidad a:
 
 ## ¿Cómo se usa?
 
-Es necesaria la solución a este problema endémico ya, arraigado en la clase política, no sólo la española, sino a nivel internacional. El mentir por mentir, sobre todo algunos, lo llevan en sus genes, y lo hacen con tal naturalidad, que gran parte de la población los sigue y los aplaude. No les tiembla la voz cuando algún contrincante político les rebate, porque ellos siguen a lo suyo, la mentira. Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quién confíe ya quién encomendar sus votos a la hora de ir a las urnas, porque ellos serán los que defenderán sus intereses.
+Es necesaria la solución a este problema endémico ya, arraigado en la clase política, no sólo la española, sino a nivel internacional. El mentir por mentir, sobre todo algunos, lo llevan en sus genes, y lo hacen con tal naturalidad, que gran parte de la población los sigue y los aplaude. No les tiembla la voz cuando algún contrincante político les rebate, porque ellos siguen a lo suyo, la mentira. Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quién confíe y a quién encomendar sus votos a la hora de ir a las urnas, porque ellos serán los que defenderán sus intereses.
 
 <table style="width: 100%; text-align: center;">
   <tr>
