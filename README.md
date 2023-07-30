@@ -15,7 +15,7 @@ Los políticos mienten muchas veces al dar cifras y datos. Con esta herramienta 
 
 ## Fondo
 
-Con estas instrucciones que creemos vamos a solucionar la veracidad de que adolece la clase política española, en mi caso, ya que soy español. Son innumerables los casos que se dan en los que se rebaten las incongruencias en lo que dijeron hace x tiempo, y lo que dicen ahora. No siguen unas pautas y una disciplina a la hora de hablar, donde decían digo, ahora dicen diego. Se dan casos de auténtico descaro al hacer declaraciones o entrevistas, en las que literalmente engañan a la población.
+Con estas instrucciones que creemos vamos a solucionar la veracidad de que adolece la clase política española, en mi caso, ya que soy español. Son innumerables los casos que se dan al rebatir las incongruencias por lo que dijeron hace x tiempo, y lo que dicen ahora. No siguen unas pautas y una disciplina a la hora de hablar, donde decían digo, ahora dicen diego. Se dan casos de auténtico descaro al hacer declaraciones o entrevistas, en las que literalmente engañan a la población.
 
 Intentaremos dar veracidad a:
 * Entrevistas
