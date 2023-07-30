@@ -6,7 +6,7 @@ creado por Reaktor Innovations y la Universidad de Helsinki.
 
 # Título del Proyecto
 
-Proyecto final del curso Construyendo IAa
+Proyecto final del curso Construyendo IA
 
 ## Resumen
 
