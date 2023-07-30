@@ -22,16 +22,15 @@ Intentaremos dar veracidad a:
 * Declaraciones
 * Manifiestos
 * Debates
-* etc.
+* Mítines
+* Asambleas
 
 
 ## ¿Cómo se usa?
 
 Describe el proceso de usar la solución. ¿En qué tipo de situaciones se necesita la solución (entorno, tiempo, etc.)? ¿Quiénes son los usuarios, qué tipo de necesidades se deben tener en cuenta?
 
-¡Las imágenes harán que tu README se vea bien!
-Una vez que cargue una imagen en su repositorio, puede vincularla de esta manera (reemplace la URL con la ruta del archivo, si ha cargado una imagen en Github).
-![Gato](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+![Politico][(https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)](https://www.freepik.es/fotos-premium/hombre-siendo-entrevistado-microfono_42699085.htm#page=5&query=pol%C3%ADticos%20hablando&position=7&from_view=search&track=ais)
 
 Si necesita cambiar el tamaño de las imágenes, debe usar una etiqueta HTML, como esta:
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
