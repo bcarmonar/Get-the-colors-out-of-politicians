@@ -1,4 +1,4 @@
-# Sacar los colores
+# Sacar los colores a los políticos
 Esto es lo que le vamos a hacer a los políticos que mienten. Y le vamos a poner el rojo.
 <!-- Esta es la plantilla de descuento para el proyecto final del curso Building AI,
 creado por Reaktor Innovations y la Universidad de Helsinki.
@@ -22,7 +22,7 @@ Intentaremos dar veracidad a:
 * Declaraciones
 * Manifiestos
 * Debates
-* Mítines
+* Concentración
 * Asambleas
 
 
