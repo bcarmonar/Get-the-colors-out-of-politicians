@@ -22,7 +22,8 @@ Intentaremos dar veracidad a:
 * Declaraciones
 * Manifiestos
 * Debates
-* Concentración
+* Concentraciones
+* Charlas
 * Asambleas
 
 
