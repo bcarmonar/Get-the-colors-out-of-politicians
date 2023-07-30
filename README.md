@@ -34,34 +34,12 @@ Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quie
 
 <img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="500">
 
-Así es como se crean ejemplos de código:
-```
-def principal():
-   países = ['Dinamarca', 'Finlandia', 'Islandia', 'Noruega', 'Suecia']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000] # en realidad no es necesario en este ejercicio...
-   pescadores = [1891, 2652, 3800, 11611, 1757]
 
-   totPop = suma(pop)
-   totFish = sum(pescadores)
-
-   # escriba su solución aquí
-
-   para i en el rango (len (países)):
-      print("%s %.2f%%" % (países[i], 100.0)) # actual solo imprime 100%
-
-principal()
-```
 
 
 ## Fuentes de datos y métodos de IA
 Los datos povienen de la red, de medios de comunicación, que son los que tienen todos los archivos, tanto escritos como de audio. Prensa, radio, televisión, RRSS, etc. serán testigos directos y jueces de todo aquello que salga por sus bocas e inmediatamente serán objetivo de la lupa al pasar por sus respectivas hemerotecas.
 Si necesita usar enlaces, aquí hay un ejemplo:
-[API de Twitter] (https://developer.twitter.com/en/docs)
-
-| Sintaxis | Descripción |
-| ----------- | ----------- |
-| Encabezado | Título |
-| Párrafo | Texto |
 
 ## Desafíos
 
