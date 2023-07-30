@@ -23,7 +23,6 @@ Intentaremos dar veracidad a:
 * Manifiestos
 * Debates
 * Mítines
-* Mítines
 * Asambleas
 
 
