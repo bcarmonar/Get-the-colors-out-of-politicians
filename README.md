@@ -56,7 +56,7 @@ principal()
 
 
 ## Fuentes de datos y métodos de IA
-¿De dónde provienen sus datos? ¿Los recopila usted mismo o utiliza los datos recopilados por otra persona?
+Los datos povienen de la red, de medios de comunicación, que son los que tienen todos los archivos, tanto escritos como de audio. Prensa, radio, televisión, RRSS, etc. serán testigos directos y jueces de todo aquello que salga por sus bocas e inmediatamente serán objetivo de la lupa al pasar por sus respectivas hemerotecas.
 Si necesita usar enlaces, aquí hay un ejemplo:
 [API de Twitter] (https://developer.twitter.com/en/docs)
 
