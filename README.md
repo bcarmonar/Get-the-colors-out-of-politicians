@@ -33,6 +33,7 @@ Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quie
 
 
 <img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="500">
+<img src="https://img.freepik.com/fotos-premium/hombre-sosteniendo-microfono-frente-multitud_197463-2772.jpg?w=826" width="500">
 
 
 
