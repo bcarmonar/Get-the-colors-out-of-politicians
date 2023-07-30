@@ -1,5 +1,5 @@
-# sacar-los-colores
-sacar-los-colores es lo que le vamos a hacer a los políticos que mienten
+# Sacar los colores
+Esto es lo que le vamos a hacer a los políticos que mienten. Y le vamos a poner el rojo.
 <!-- Esta es la plantilla de descuento para el proyecto final del curso Building AI,
 creado por Reaktor Innovations y la Universidad de Helsinki.
 ¡Copie la plantilla, péguela en su LÉAME de GitHub y edítela! -->
