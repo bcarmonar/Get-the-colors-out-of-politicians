@@ -29,11 +29,8 @@ Intentaremos dar veracidad a:
 
 Es necesario la solución a este problema endémico ya, arraigado en la clase política, no sólo la española, sino a nivel internacional. El mentir por mentir, sobre todo algunos, lo llevan en sus genes, y lo hacen con tal naturalidad, que gran parte de la población los siguen y los aplauden. No les tiembla la voz cuando algún contrincante político les rebate, porque ellos siguen a lo suyo, la mentira. 
 Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quien confiar y a quien encomendar sus votos a la hora de ir a las urnas, porque ellos serán los que defenderán sus intereses.
-![Político](https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826)
-
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="300">
+![Político]
+<img src="https://img.freepik.com/fotos-premium/hombre-siendo-entrevistado-microfono_861143-1564.jpg?w=826" width="500">
 
 Así es como se crean ejemplos de código:
 ```
