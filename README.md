@@ -56,4 +56,5 @@ Sería muy importante que este proyecto tuviera forma y algún día pudiera tene
 
 * Este curso ha sido enormemente interesante y práctico porque ha incluido muchos ejercicios. He de reconocer que, difíciles, pero es lo que hay.
 * Agradecer a la UNED y la Universidad de HelsinKi por facilitar este curso gratuíto porque estoy en paro y me sirve para poder abrir un campo nuevo.
+  
   -He de aclarar un pequeño detalle que hay algunas palabras que van sin tilde y no consigo saber como en GitHub se pone. Lo he intentado, pero nada.
