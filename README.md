@@ -9,7 +9,6 @@ creado por Reaktor Innovations y la Universidad de Helsinki.
 Proyecto final del curso Construyendo IA
 
 ## Resumen
-
 Los políticos mienten muchas veces al dar cifras y datos. Con esta herramienta pretendemos cotejar unas y otros con los reales, a modo de detector de mentiras. Se instalará una pequeña pantalla delante del micrófono que se pondrá en rojo cada vez que falte a la verdad.
 
 ## Fondo
