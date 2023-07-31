@@ -57,4 +57,4 @@ Sería muy importante que este proyecto tuviera forma y algún día pudiera tene
 * Este curso ha sido enormemente interesante y práctico porque ha incluido muchos ejercicios. He de reconocer que, difíciles, pero es lo que hay.
 * Agradecer a la UNED y la Universidad de HelsinKi por facilitar este curso gratuíto porque estoy en paro y me sirve para poder abrir un campo nuevo.
   
-  -He de aclarar un pequeño detalle, que hay algunas palabras que van sin tilde y es que no consigo saber como en GitHub se hace. Lo he intentado, pero nada.
+  -He de aclarar un pequeño detalle, que hay algunas palabras que no llevan su tilde correspondiente. No consigo saber la forma de hacerlo, y por qué unas palabras la llevan y otras no, inclusive la misma, según el lugar, la tiene o no. Lo he intentado, pero nada. Seguiré indagando.
