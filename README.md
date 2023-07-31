@@ -39,7 +39,6 @@ Es necesaria la solución a este problema endémico ya, arraigado en la clase po
   </tr>
 </table>
 
-
 ## Fuentes de datos y métodos de IA
 Los datos provienen de la red, de medios de comunicación, que son los que tienen todos los archivos, tanto escritos como de audio. Prensa, radio, televisión, RRSS, etc. serán testigos directos y jueces de todo aquello que salga por sus bocas e inmediatamente serán objetivo de la lupa al pasar por sus respectivas hemerotecas.
 
