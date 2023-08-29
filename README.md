@@ -1,32 +1,33 @@
-# Sacar los colores a los políticos
-Esto es lo que le vamos a hacer a los políticos que mienten. Y le vamos a poner el rojo.
-<!-- Esta es la plantilla de descuento para el proyecto final del curso Building AI,
-creado por Reaktor Innovations y la Universidad de Helsinki.
-¡Copie la plantilla, péguela en su LÉAME de GitHub y edítela! -->
+# Get the colors out of politicians
+This is what we are going to do to politicians who lie. And we're going to put red.
+<!-- This is the discount template for the final project of the Building AI course,
+created by Reaktor Innovations and the University of Helsinki.
+Copy the template, paste it into your GitHub README, and edit it! -->
 
-# Título del Proyecto
+# Title of the project
 
-Proyecto final del curso Construyendo IA
+Final project of the course Building AI
 
-## Resumen
+## Summary
 
-Los políticos mienten muchas veces al dar cifras y datos. Con esta herramienta pretendemos cotejar unas y otros con los reales, a modo de detector de mentiras. Se instalará una pequeña pantalla delante del micrófono que se pondrá en rojo cada vez que falte a la verdad.
+Politicians often lie when giving figures and data. With this tool we intend to compare one and the other with the real ones, as a lie detector. A small screen will be installed in front of the microphone that will turn red every time it is untrue.
 
-## Fondo
+## Background
 
-Con estas instrucciones que creemos vamos a solucionar la veracidad de que adolece la clase política española, en mi caso, ya que soy español. Son innumerables los casos que se dan al rebatir las incongruencias por lo que dijeron hace x tiempo, y lo que dicen ahora. No siguen unas pautas y una disciplina a la hora de hablar, donde decían digo, ahora dicen diego. Se dan casos de auténtico descaro al hacer declaraciones o entrevistas, en las que literalmente engañan a la población.
+With these instructions that we believe we are going to solve the veracity that the Spanish political class suffers from, in my case, since I am Spanish. There are innumerable cases that occur in which the inconsistencies in what they said a long time ago, and what they say now, are refuted. They do not follow guidelines and discipline when it comes to speaking, where they used to say “digo”, now they say “diego”. This is a very common Spanish expression that reflects that they change the speech according to their convenience. There are cases of real impudence when making statements or interviews, in which they literally deceive the population.
 
-Intentaremos dar veracidad a:
-* Entrevistas
-* Declaraciones
-* Manifiestos
-* Debates
-* Concentraciones
-* Asambleas
+We will try to give veracity to:
+• Interviews
+• Statements
+• Manifests
+• Discussions
+• Concentrations
+• Assemblies
 
-## ¿Cómo se usa?
 
-Es necesaria la solución a este problema endémico ya, arraigado en la clase política, no sólo la española, sino a nivel internacional. El mentir por mentir, sobre todo algunos, lo llevan en sus genes, y lo hacen con tal naturalidad, que gran parte de la población los sigue y los aplaude. No les tiembla la voz cuando algún contrincante político les rebate, porque ellos siguen a lo suyo, la mentira. Es importante que la gente de a pie sepa qué tipo de gobernantes tiene, en quién confíe y a quién encomendar sus votos a la hora de ir a las urnas, porque ellos serán los que defenderán sus intereses.
+## How is it used?
+
+A solution to this endemic problem, already rooted in the political class, not only in Spain, but internationally, is necessary. Lying for the sake of lying, especially some, carry it in their genes, and they do it so naturally that a large part of the population follows and applauds them. Their voices do not tremble when a political opponent rebuts them, because they follow their own, the lie. It is important that ordinary people know what kind of rulers they have, who they trust and who to entrust their votes to when going to the polls, because they will be the ones who will defend their interests.
 
 <table style="width: 100%; text-align: center;">
   <tr>
@@ -39,12 +40,12 @@ Es necesaria la solución a este problema endémico ya, arraigado en la clase po
   </tr>
 </table>
 
-## Fuentes de datos y métodos de IA
-Los datos provienen de la red, de medios de comunicación, que son los que tienen todos los archivos, tanto escritos como de audio. Prensa, radio, televisión, RRSS, etc. serán testigos directos y jueces de todo aquello que salga por sus bocas e inmediatamente serán objetivo de la lupa al pasar por sus respectivas hemerotecas.
+## Data sources and AI methods
+The data comes from the network, from the media, which are the ones that have all the files, both written and audio. Press, radio, television, RRSS, etc. They will be direct witnesses and judges of everything that comes out of their mouths and will immediately be the target of the magnifying glass when passing through their respective newspaper archives.
 
-## Desafíos
+## Challenges
 
-Aunque es innumerable el número de contradicciones en las que entrarán las y los políticos a la hora de hablar, esta idea no va a reflejar aquellas innumerables barbaridades que han dicho, dicen y dirán y que no están recogidas en ningún medio y que nada más que se pueden demostrar a través de testigos directos presentes en tales circunstancias y que podrían apostillar y dar fe de lo que pretendemos demostrar con este experimento.
+Although the number of contradictions into which politicians will enter when it comes to speaking is innumerable, this idea will not reflect those innumerable atrocities that they have said, say and will say. They are not collected in any media and luckily for them, nothing more than can be demonstrated through direct witnesses present in such circumstances, and who could apostille and attest to what we intend to demonstrate with this experiment.
 
 ## ¿Qué sigue?
 
