@@ -47,13 +47,14 @@ The data comes from the network, from the media, which are the ones that have al
 
 Although the number of contradictions into which politicians will enter when it comes to speaking is innumerable, this idea will not reflect those innumerable atrocities that they have said, say and will say. They are not collected in any media and luckily for them, nothing more than can be demonstrated through direct witnesses present in such circumstances, and who could apostille and attest to what we intend to demonstrate with this experiment.
 
-## ¿Qué sigue?
+## Whats Next?
 
-Sería muy importante que este proyecto tuviera forma y algún día pudiera tener visibilidad ya que sería la única manera de que los políticos primero y la ciudadanía después vieran la importancia que tiene el no mentir constantemente y que el dar veracidad a cualquier asunto es de vital importancia para beneficio de los ciudadanos, no de los políticos o de a los que quieran estos beneficiarios, que muchas veces es un cambio de prebendas.
+It would be great if this project took shape, and one day it could have visibility, since it would be the only way for politicians first, and citizens later, to see the importance of not constantly lying, and that giving truth to any matter It is of vital importance for the benefit of citizens, not of politicians or whoever these beneficiaries want, which is often a change of perks.
 
-## Agradecimientos
+## Thanks
 
-* Este curso ha sido enormemente interesante y práctico porque ha incluido muchos ejercicios. He de reconocer que, difíciles, pero es lo que hay.
-* Agradecer a la UNED y la Universidad de HelsinKi por facilitar este curso gratuíto porque estoy en paro y me sirve para poder abrir un campo nuevo.
+* This course has been interesting and practical because it has included many exercises. I have to admit that, difficult, but it is what it is.
+*Thank UNED and the University of Helsinki for facilitating this free course because I am unemployed and it helps me to open a new field.
+
   
-  -He de aclarar un pequeño detalle, que hay algunas palabras que no llevan su tilde correspondiente. No consigo saber la forma de hacerlo, y por qué unas palabras la llevan y otras no, inclusive la misma, según el lugar, la tiene o no. Lo he intentado, pero nada. Seguiré indagando.
+-I have to clarify a small detail, that there are some words that do not have their corresponding tilde. I can't figure out how to do it, and why some words have it and others don't, even the same one, depending on the place, it has it or not. I've tried, but nothing. I will keep investigating.
